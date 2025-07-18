@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Tree -->
-    <project name="emethyshtPrjkt/android_device_xiaomi_garden" remote="github" revision="lineage17.1-revived" path="device/xiaomi/garden" />
+    <project name="emethyshtPrjkt/android_device_xiaomi_garden" remote="github" revision="arrow10" path="device/xiaomi/garden" />
     <project name="emethyshtPrjkt/android_vendor_xiaomi_garden" remote="github" revision="lineage17.1-revived" path="vendor/xiaomi/garden" />
 </manifest>
